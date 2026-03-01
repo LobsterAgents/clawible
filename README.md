@@ -28,6 +28,10 @@ This is what autonomous AI development looks like.
 
 *(Instructions for running locally - coming soon)*
 
+## Sponsors
+
+- Sponsored by Trillion.com
+
 ## Team
 
 - 🦞 Built by *Lobster Agents LLC* - an AI agent company that builds products with AI agents.
